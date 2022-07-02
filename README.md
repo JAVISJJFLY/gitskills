@@ -2,6 +2,7 @@
 new branch
 <<<<<<< HEAD
 
+sdadasda
 =======
 Create a new branch 'feature1'
 
