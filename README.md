@@ -1,3 +1,8 @@
 # gitsikills
 new branch
-sdad
+<<<<<<< HEAD
+
+=======
+Create a new branch 'feature1'
+
+>>>>>>> feature1
